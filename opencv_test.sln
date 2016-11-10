@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "opencv_test", "opencv_test\opencv_test.vcxproj", "{69C4BCD4-D928-40D4-BE1A-A64890302810}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Tesseract3.2", "Tesseract3.2\Tesseract3.2\Tesseract3.2.vcxproj", "{053E632C-6E04-48F6-B59C-73D7F6CC8B1C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69C4BCD4-D928-40D4-BE1A-A64890302810}.Debug|x64.ActiveCfg = Debug|x64
+		{69C4BCD4-D928-40D4-BE1A-A64890302810}.Debug|x64.Build.0 = Debug|x64
+		{69C4BCD4-D928-40D4-BE1A-A64890302810}.Debug|x86.ActiveCfg = Debug|Win32
+		{69C4BCD4-D928-40D4-BE1A-A64890302810}.Debug|x86.Build.0 = Debug|Win32
+		{69C4BCD4-D928-40D4-BE1A-A64890302810}.Release|x64.ActiveCfg = Release|x64
+		{69C4BCD4-D928-40D4-BE1A-A64890302810}.Release|x64.Build.0 = Release|x64
+		{69C4BCD4-D928-40D4-BE1A-A64890302810}.Release|x86.ActiveCfg = Release|Win32
+		{69C4BCD4-D928-40D4-BE1A-A64890302810}.Release|x86.Build.0 = Release|Win32
+		{053E632C-6E04-48F6-B59C-73D7F6CC8B1C}.Debug|x64.ActiveCfg = Debug|Win32
+		{053E632C-6E04-48F6-B59C-73D7F6CC8B1C}.Debug|x86.ActiveCfg = Debug|Win32
+		{053E632C-6E04-48F6-B59C-73D7F6CC8B1C}.Debug|x86.Build.0 = Debug|Win32
+		{053E632C-6E04-48F6-B59C-73D7F6CC8B1C}.Release|x64.ActiveCfg = Release|Win32
+		{053E632C-6E04-48F6-B59C-73D7F6CC8B1C}.Release|x86.ActiveCfg = Release|Win32
+		{053E632C-6E04-48F6-B59C-73D7F6CC8B1C}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
