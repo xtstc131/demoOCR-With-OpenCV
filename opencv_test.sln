@@ -5,7 +5,9 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "opencv_test", "opencv_test\opencv_test.vcxproj", "{69C4BCD4-D928-40D4-BE1A-A64890302810}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Tesseract3.2", "Tesseract3.2\Tesseract3.2\Tesseract3.2.vcxproj", "{053E632C-6E04-48F6-B59C-73D7F6CC8B1C}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OpenCV_3_KNN_Character_Recognition", "OpenCV_3_KNN_Character_Recognition\OpenCV_3_KNN_Character_Recognition.vcxproj", "{5237C689-8268-4BB7-8E8F-1B2935BDE007}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "readDirTes", "readDirTes\readDirTes.vcxproj", "{A8F81F7A-7B7E-4896-AF33-672FCEFF8016}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,12 +25,22 @@ Global
 		{69C4BCD4-D928-40D4-BE1A-A64890302810}.Release|x64.Build.0 = Release|x64
 		{69C4BCD4-D928-40D4-BE1A-A64890302810}.Release|x86.ActiveCfg = Release|Win32
 		{69C4BCD4-D928-40D4-BE1A-A64890302810}.Release|x86.Build.0 = Release|Win32
-		{053E632C-6E04-48F6-B59C-73D7F6CC8B1C}.Debug|x64.ActiveCfg = Debug|Win32
-		{053E632C-6E04-48F6-B59C-73D7F6CC8B1C}.Debug|x86.ActiveCfg = Debug|Win32
-		{053E632C-6E04-48F6-B59C-73D7F6CC8B1C}.Debug|x86.Build.0 = Debug|Win32
-		{053E632C-6E04-48F6-B59C-73D7F6CC8B1C}.Release|x64.ActiveCfg = Release|Win32
-		{053E632C-6E04-48F6-B59C-73D7F6CC8B1C}.Release|x86.ActiveCfg = Release|Win32
-		{053E632C-6E04-48F6-B59C-73D7F6CC8B1C}.Release|x86.Build.0 = Release|Win32
+		{5237C689-8268-4BB7-8E8F-1B2935BDE007}.Debug|x64.ActiveCfg = Debug|x64
+		{5237C689-8268-4BB7-8E8F-1B2935BDE007}.Debug|x64.Build.0 = Debug|x64
+		{5237C689-8268-4BB7-8E8F-1B2935BDE007}.Debug|x86.ActiveCfg = Debug|Win32
+		{5237C689-8268-4BB7-8E8F-1B2935BDE007}.Debug|x86.Build.0 = Debug|Win32
+		{5237C689-8268-4BB7-8E8F-1B2935BDE007}.Release|x64.ActiveCfg = Release|x64
+		{5237C689-8268-4BB7-8E8F-1B2935BDE007}.Release|x64.Build.0 = Release|x64
+		{5237C689-8268-4BB7-8E8F-1B2935BDE007}.Release|x86.ActiveCfg = Release|Win32
+		{5237C689-8268-4BB7-8E8F-1B2935BDE007}.Release|x86.Build.0 = Release|Win32
+		{A8F81F7A-7B7E-4896-AF33-672FCEFF8016}.Debug|x64.ActiveCfg = Debug|x64
+		{A8F81F7A-7B7E-4896-AF33-672FCEFF8016}.Debug|x64.Build.0 = Debug|x64
+		{A8F81F7A-7B7E-4896-AF33-672FCEFF8016}.Debug|x86.ActiveCfg = Debug|Win32
+		{A8F81F7A-7B7E-4896-AF33-672FCEFF8016}.Debug|x86.Build.0 = Debug|Win32
+		{A8F81F7A-7B7E-4896-AF33-672FCEFF8016}.Release|x64.ActiveCfg = Release|x64
+		{A8F81F7A-7B7E-4896-AF33-672FCEFF8016}.Release|x64.Build.0 = Release|x64
+		{A8F81F7A-7B7E-4896-AF33-672FCEFF8016}.Release|x86.ActiveCfg = Release|Win32
+		{A8F81F7A-7B7E-4896-AF33-672FCEFF8016}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
